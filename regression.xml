@@ -4,7 +4,6 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="xmlTest.TC008_SelectTest"/>
-            <class name="xmlTest.TC007_DatePicker"/>
       
       
       
